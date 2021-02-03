@@ -1,0 +1,12 @@
+/Users/sandra/Documents/praktika/Atea/Alna_1/Alna_1/bin/Debug/netcoreapp3.1/Alna_1.deps.json
+/Users/sandra/Documents/praktika/Atea/Alna_1/Alna_1/bin/Debug/netcoreapp3.1/Alna_1.runtimeconfig.json
+/Users/sandra/Documents/praktika/Atea/Alna_1/Alna_1/bin/Debug/netcoreapp3.1/Alna_1.runtimeconfig.dev.json
+/Users/sandra/Documents/praktika/Atea/Alna_1/Alna_1/bin/Debug/netcoreapp3.1/Alna_1.dll
+/Users/sandra/Documents/praktika/Atea/Alna_1/Alna_1/bin/Debug/netcoreapp3.1/Alna_1.pdb
+/Users/sandra/Documents/praktika/Atea/Alna_1/Alna_1/obj/Debug/netcoreapp3.1/Alna_1.csprojAssemblyReference.cache
+/Users/sandra/Documents/praktika/Atea/Alna_1/Alna_1/obj/Debug/netcoreapp3.1/Alna_1.AssemblyInfoInputs.cache
+/Users/sandra/Documents/praktika/Atea/Alna_1/Alna_1/obj/Debug/netcoreapp3.1/Alna_1.AssemblyInfo.cs
+/Users/sandra/Documents/praktika/Atea/Alna_1/Alna_1/obj/Debug/netcoreapp3.1/Alna_1.csproj.CoreCompileInputs.cache
+/Users/sandra/Documents/praktika/Atea/Alna_1/Alna_1/obj/Debug/netcoreapp3.1/Alna_1.dll
+/Users/sandra/Documents/praktika/Atea/Alna_1/Alna_1/obj/Debug/netcoreapp3.1/Alna_1.pdb
+/Users/sandra/Documents/praktika/Atea/Alna_1/Alna_1/obj/Debug/netcoreapp3.1/Alna_1.genruntimeconfig.cache
